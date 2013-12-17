@@ -70,7 +70,7 @@ loi du 1er juillet 1901 et au décret du 16 août 1901.
 
 <hr>
 
-*Fait à Lyon, le 17 octobre 2013.*
+*Fait à Lyon, le 11 septembre 2013.*
 
 *Le président :*
 Michael BAUDINO 
