@@ -8,7 +8,7 @@ Il est fondé, entre les adhérents aux présents statuts,  une association rég
 L'association se donne pour objectif de promouvoir, directement ou indirectement, le langage de programmation Ruby et son écosystème.
 
 ## Article 3 – Siège
-Le siège est fixé au 1 rue de la Martinière, 69001 Lyon.
+Le siège est fixé au 352 cours Emile Zola 69100 Villeurbanne.
 Il pourra être transféré par simple décision de l'assemblée générale.
 
 ## Article 4 – Durée
@@ -66,10 +66,10 @@ En cas de dissolution prononcée par les deux tiers au moins des membres présen
 
 <hr>
 
-*Fait à Lyon, le 2 décembre 2014.*
+*Fait à Lyon, le 30 mars 2016.*
 
-*Le président :*
-Michael BAUDINO 
+*La présidente :*
+Mathilde AGLIETTA
 
 *le trésorier :*
 Camille APPERT
