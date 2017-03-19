@@ -8,7 +8,7 @@ Il est fondé, entre les adhérents aux présents statuts,  une association rég
 L'association se donne pour objectif de promouvoir, directement ou indirectement, le langage de programmation Ruby et son écosystème.
 
 ## Article 3 – Siège
-Le siège est fixé au 1 rue de la Martinière, 69001 Lyon.
+Le siège est fixé au 352 cours Emile Zola 69100 Villeurbanne.
 Il pourra être transféré par simple décision de l'assemblée générale.
 
 ## Article 4 – Durée
@@ -48,26 +48,28 @@ Les décisions de l’assemblée sont prises à la majorité des membres présen
 Si besoin est, ou sur la demande de la moitié plus un des membres inscrits, le président peut convoquer une assemblée générale extraordinaire, suivant les formalités prévues par l’article précédent.
 
 ## Article 11 – Bureau
-L’assemblée générale désigne parmi les membres un Bureau composé d'un président et d'un trésorier au minimum. 
+L’assemblée générale désigne parmi les membres un Bureau composé d'un président et d'un trésorier au minimum.
 
 Elle peut également désigner un vice-président, un trésorier adjoint et un secrétaire.
 Le bureau prépare les réunions des membres. Il exécute les décisions de l’assemblée et traite les affaires courantes de l’association.
+
 ## Article 12 – Règlement intérieur
 Un Règlement intérieur peut être établi par le Bureau qui le fait approuver par l’Assemblée Générale. Les membres se doivent de respecter le Règlement intérieur.
+
 ## Article 13 – Pouvoir du Bureau
 Le Bureau est investi des pouvoirs les plus étendus dans les limites de l’objet de l’association et dans le cadre des résolutions adoptées par décision collective des membres. Il peut autoriser tous actes ou opérations qui ne sont pas statutairement de la compétence de l’Assemblée Générale. Il est chargé de la mise en œuvre des orientations décidées par l'Assemblée Générale, de la préparation des bilans, de l'ordre du jour et des propositions de modification du règlement intérieur présentés à l'Assemblée Générale, et de la préparation des propositions de modifications des statuts présentés à l'Assemblée Générale extraordinaire.
 
-L'Assemblée Générale donne pouvoir au Bureau pour faire toutes opérations concernant l'ouverture, la fermerture et le fonctionnement des comptes de chèques, comptes sur livret et fonds en espècesde l'association, et notamment de signer tous ordres, reçus, virements, et de faire tous versements et tout retraits, de retirer ou de verser toutes pièces comptables, de donner toutes quittances et décharges.
+L'Assemblée Générale donne pouvoir au Bureau pour faire toutes opérations concernant l'ouverture, la fermeture et le fonctionnement des comptes de chèques, comptes sur livret et fonds en espèces de l'association, et notamment de signer tous ordres, reçus, virements, et de faire tous versements et tout retraits, de retirer ou de verser toutes pièces comptables, de donner toutes quittances et décharges.
 
 ## Article 14 – Dissolution
 En cas de dissolution prononcée par les deux tiers au moins des membres présents à l’Assemblée Générale, un ou plusieurs liquidateurs sont nommés par celle-ci et l’actif, s’il y a lieu, est dévolu conformément à l’article 9 de la loi du 1er juillet 1901 et au décret du 16 août 1901.
 
 <hr>
 
-*Fait à Lyon, le 2 décembre 2014.*
+*Fait à Lyon, le 30 mars 2016.*
 
-*Le président :*
-Michael BAUDINO 
+*La présidente :*
+Mathilde AGLIETTA
 
 *le trésorier :*
 Camille APPERT
